@@ -17,3 +17,5 @@ mkdir /tmp/holberton : This create a directory called holberton inside tmp direc
 mv /tmp/betty /tmp/holberton: Move betty file into holberton directory
 
 rm /tmp/holberton/betty: Delete betty file from holberton directory
+
+rmdir /tmp/holberton/: To delete holberton directory
