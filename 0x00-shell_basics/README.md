@@ -7,3 +7,7 @@ ls: to list files and directories in the present working directory
 cd: to change from present working directory to home directory
 
 ls -l: to display current directory contents in a long format
+
+ls -la: to display current directory contents in a long format including hidden files
+
+ls -lan: to display long format including hidden files with ID and group in numeric order
