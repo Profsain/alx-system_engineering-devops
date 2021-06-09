@@ -21,3 +21,10 @@ rm /tmp/holberton/betty: Delete betty file from holberton directory
 rmdir /tmp/holberton/: To delete holberton directory
 
 cd .. : To change from the present working directory to the previous one
+
+ls . : To list content of the current working directory
+
+ls .. : To list content of the parent current working directory
+
+cp -u *.html .. : To copy all .html files from the current woriking directory to the parent of the working directory. Only copy files that did not exist in the parent of the working directory
+
