@@ -15,3 +15,5 @@ ls -lan: to display long format including hidden files with ID and group in nume
 mkdir /tmp/holberton : This create a directory called holberton inside tmp directory without switching to tmp directory
 
 mv /tmp/betty /tmp/holberton: Move betty file into holberton directory
+
+rm /tmp/holberton/betty: Delete betty file from holberton directory
