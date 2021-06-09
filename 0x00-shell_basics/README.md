@@ -19,3 +19,5 @@ mv /tmp/betty /tmp/holberton: Move betty file into holberton directory
 rm /tmp/holberton/betty: Delete betty file from holberton directory
 
 rmdir /tmp/holberton/: To delete holberton directory
+
+cd .. : To change from the present working directory to the previous one
