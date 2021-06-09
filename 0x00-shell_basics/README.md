@@ -13,3 +13,5 @@ ls -la: to display current directory contents in a long format including hidden 
 ls -lan: to display long format including hidden files with ID and group in numeric order
 
 mkdir /tmp/holberton : This create a directory called holberton inside tmp directory without switching to tmp directory
+
+mv /tmp/betty /tmp/holberton: Move betty file into holberton directory
