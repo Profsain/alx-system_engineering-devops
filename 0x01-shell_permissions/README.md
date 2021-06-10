@@ -10,3 +10,5 @@ groups : Print all te groups a user is members of
 
 
 chown : To change ownership of files or directory to different users
+
+touch : To create an empty file in the current working directory
