@@ -20,3 +20,5 @@ chmod 744 : Add execute permission to the owner of the file
 chmod 754 : Add execute permission to the group owner
 
 chmod 751 : Add execute permission to the owner, group owner and others
+
+chmod --reference = RRFILE file : To copy RRFILE permission to file 
