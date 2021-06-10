@@ -14,3 +14,9 @@ chown : To change ownership of files or directory to different users
 touch : To create an empty file in the current working directory
 
 chmod : to change file or directory permission to r=read, w=write, x=execute.
+
+chmod 744 : Add execute permission to the owner of the file
+
+chmod 754 : Add execute permission to the group owner
+
+chmod 751 : Add execute permission to the owner, group owner and others
