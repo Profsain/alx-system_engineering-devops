@@ -26,3 +26,5 @@ chmod --reference = RRFILE file : To copy RRFILE permission to file
 chmod -R 775 */ : To add permission to subdirectories only in the current directory
 
 mkdir -m 751 dir_holberton : Create new directory and set the permission to 751
+
+chgrp groupName fileName : To change Group ownership of a file
