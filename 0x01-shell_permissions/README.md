@@ -24,3 +24,5 @@ chmod 751 : Add execute permission to the owner, group owner and others
 chmod --reference = RRFILE file : To copy RRFILE permission to file
 
 chmod -R 775 */ : To add permission to subdirectories only in the current directory
+
+mkdir -m 751 dir_holberton : Create new directory and set the permission to 751
