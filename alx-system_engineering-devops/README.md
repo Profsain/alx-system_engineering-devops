@@ -13,3 +13,6 @@ head -n 10 fileName - Display the first 10 lines of fileName
 cat iacta | head -3 | tail -1 command - Display the third line of the file iacta
 
 ls -la > ls_cwd_content : write the output of ls -la command into ls_cwd_content file
+
+tail iacta >> iacta : To append last lin duplicate of iacta to iacta
+
