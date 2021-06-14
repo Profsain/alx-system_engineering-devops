@@ -10,4 +10,4 @@ tail -n 10 fileName - Display the last 10 lines of fileName
 
 head -n 10 fileName - Display the first 10 lines of fileName
 
-
+cat iacta | head -3 | tail -1 command - Display the third line of the file iacta
