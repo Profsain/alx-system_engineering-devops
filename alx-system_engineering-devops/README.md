@@ -22,3 +22,6 @@ find <dirName> -type d | wc -l : To find and count all the folder in the current
 
 ls -t <dirName> | head -10  : To show 10 most recent modified file sorted by date
 
+cat <fileName> | sort | uniq -u : To display words in the list fileName that is not duplicated
+
+
