@@ -24,4 +24,5 @@ ls -t <dirName> | head -10  : To show 10 most recent modified file sorted by dat
 
 cat <fileName> | sort | uniq -u : To display words in the list fileName that is not duplicated
 
+grep <pattern> <filename> : to display lines containing the pattern from the file
 
