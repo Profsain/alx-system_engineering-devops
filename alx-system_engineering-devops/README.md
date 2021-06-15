@@ -32,4 +32,7 @@ grep -vi "bin" /etc/passwd  : To display all the lines in the file that do not c
 
 sed 's/A/Z/g' : to replace all character A with Z in a given file
 
+rev command : To reverse word inputed e.g echo "Profsain" | rev >> output niasforP
+
+
 
