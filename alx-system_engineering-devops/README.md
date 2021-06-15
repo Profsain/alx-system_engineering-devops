@@ -16,3 +16,5 @@ ls -la > ls_cwd_content : write the output of ls -la command into ls_cwd_content
 
 tail iacta >> iacta : To append last lin duplicate of iacta to iacta
 
+find . -name "*.js" -delete  : Delete all .js files from the current working directory and its subfolder
+
