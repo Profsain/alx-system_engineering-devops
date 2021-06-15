@@ -18,3 +18,6 @@ tail iacta >> iacta : To append last lin duplicate of iacta to iacta
 
 find . -name "*.js" -delete  : Delete all .js files from the current working directory and its subfolder
 
+find <dirctory> -type d | wc -l : To find and count all the folder in the current working directory both hidden subfolder
+
+
