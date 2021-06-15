@@ -28,3 +28,5 @@ grep <pattern> <filename> : to display lines containing the pattern from the fil
 
 grep -A3 "root" /etc/passwd  : To display lines containing the pattern root and 3 line after them in the given file /etc/passwd
 
+grep -vi "bin" /etc/passwd  : To display all the lines in the file that do not contain the pattern bin and i option make the search case insensitive
+
