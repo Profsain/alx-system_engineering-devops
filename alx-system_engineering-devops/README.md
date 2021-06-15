@@ -26,3 +26,5 @@ cat <fileName> | sort | uniq -u : To display words in the list fileName that is 
 
 grep <pattern> <filename> : to display lines containing the pattern from the file
 
+grep -A3 "root" /etc/passwd  : To display lines containing the pattern root and 3 line after them in the given file /etc/passwd
+
