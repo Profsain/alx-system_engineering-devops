@@ -30,3 +30,6 @@ grep -A3 "root" /etc/passwd  : To display lines containing the pattern root and 
 
 grep -vi "bin" /etc/passwd  : To display all the lines in the file that do not contain the pattern bin and i option make the search case insensitive
 
+sed 's/A/Z/g' : to replace all character A with Z in a given file
+
+
