@@ -12,3 +12,4 @@ ls -l | wc -l  : To counts the number of directories in the PATH
 
 printenv command : to list all environmental variable in linux
 
+set command : To list all local and environmental variable in linux
