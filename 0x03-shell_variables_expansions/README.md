@@ -24,3 +24,4 @@ echo {a..z}{a..z} | tr ' ' '\n' | grep "oo"  : To create combination of two poss
 
 printf "%0.2f\n" $NUM  	 : To print NUM variable value in two decimal places
 
+printf "%x\n" $DECIMAL  : To print DECIMAL variable value in hexadecimal i.e from base 10 to base 16
