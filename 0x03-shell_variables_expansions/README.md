@@ -21,3 +21,6 @@ echo $((expression)) : To carryout Arithmetics operation in linux
 echo $(( 2#$BINARY )) : To covert form base 2 to base 10
 
 echo {a..z}{a..z} | tr ' ' '\n' | grep "oo"  : To create combination of two possible letter except oo. tr remove whitespace. \n move to next line. grep remove oo
+
+printf "%0.2f\n" $NUM  	 : To print NUM variable value in two decimal places
+
