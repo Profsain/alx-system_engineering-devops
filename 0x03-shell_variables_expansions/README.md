@@ -7,3 +7,5 @@ alias ls="rm *"  : script to create alias named ls with rm * as values stored in
 echo Hello $USER  : Print Hello current user to the screen
 
 export PATH=$PATH:/action  : To add path action to PATH as the last path
+
+ls -l | wc -l  : To counts the number of directories in the PATH
