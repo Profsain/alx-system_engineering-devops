@@ -16,3 +16,5 @@ set command : To list all local and environmental variable in linux
 
 export VARIABLENAME="variableValue" : To create local variable in linux
 
+echo $((expression)) : To carryout Arithmetics operation in linux
+
