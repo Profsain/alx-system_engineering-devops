@@ -9,3 +9,6 @@ echo Hello $USER  : Print Hello current user to the screen
 export PATH=$PATH:/action  : To add path action to PATH as the last path
 
 ls -l | wc -l  : To counts the number of directories in the PATH
+
+printenv command : to list all environmental variable in linux
+
