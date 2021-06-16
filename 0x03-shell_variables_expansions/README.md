@@ -18,3 +18,4 @@ export VARIABLENAME="variableValue" : To create local variable in linux
 
 echo $((expression)) : To carryout Arithmetics operation in linux
 
+echo $(( 2#$BINARY )) : To covert form base 2 to base 10
